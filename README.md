@@ -1,10 +1,19 @@
-# :construction: README em construção ! :construction:
-<!-- Olá, Tryber!
-Esse é apenas um arquivo inicial para o README do seu projeto.
-É essencial que você preencha esse documento por conta própria, ok?
-Não deixe de usar nossas dicas de escrita de README de projetos, e deixe sua criatividade brilhar!
-:warning: IMPORTANTE: você precisa deixar nítido:
-- quais arquivos/pastas foram desenvolvidos por você; 
-- quais arquivos/pastas foram desenvolvidos por outra pessoa estudante;
-- quais arquivos/pastas foram desenvolvidos pela Trybe.
--->
+# Projeto Zoo Functions
+Este projeto simula um sistema de relatório de um zoológico.
+O objetivo é acessar, recuperar informações utilizando funções em JavaScript além de usar _TDD - Test Driven Development_ para desenvolver testes unitários com Jest.
+### Ferramentas utilizadas (tecnologias)
+ - JavaScript
+ - Jest
+### Como executar
+Para iniciar:
+```bash
+npm install
+```
+Para executar testes:
+```bash
+npm test
+```
+<!-- Para ver a cobertura de testes:
+```bash
+npm run test:coverage
+``` -->
